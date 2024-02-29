@@ -13,7 +13,7 @@ function App() {
   }
   return (
     <>
-    <button onClick={changeCounter}>clicks {count}</button>
+    <button onClick={changeCounter}>Joud Hijaz {count}</button>
     </>
     
   )
